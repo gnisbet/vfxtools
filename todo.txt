@@ -1,0 +1,41 @@
+Solved
+------
+
+WTG
+------
+
+General
+- Syncsketch framerange mismatch
+
+LAY
+- Automatically publishing CAM layer on publish
+
+To-Do
+------
+
+Set Heaviness
+- 9994
+- To test if the textures are mipmapped
+
+LAY
+- Hiding Objects to primary rays in LAY for LIT
+- TwitsPropertyExt publishing
+
+ANI
+- Automate scene setup
+- Anim TA will setup the shots for CFX (same was as in ANI)
+
+CFX
+- Import/Export Prep HDA
+- Subd workflow (allow subd)
+- pscale not working
+- split up the grooms
+- MrsTwit hair deform test
+- Automatically run the shot
+
+LIT
+- Check out multi-shot workflow
+
+Houdini
+- Check comparing HDA files
+
