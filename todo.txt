@@ -1,5 +1,18 @@
+//--------------
+//--------------
+PERSONAL
+--------------//
+--------------//
+
 Solved
 ------
+
+SRF
+- Send modify point instancer issue to sidefx (purpose Render)
+
+FX
+- Meat Flood LDV okay'd by client
+/- All good, going to check in shot.
 
 WTG
 ------
@@ -9,6 +22,10 @@ General
 
 LAY
 - Automatically publishing CAM layer on publish
+- TwitsPropertyExt publishing
+
+CFX
+- MrsTwit hair deform test
 
 To-Do
 ------
@@ -19,23 +36,87 @@ Set Heaviness
 
 LAY
 - Hiding Objects to primary rays in LAY for LIT
-- TwitsPropertyExt publishing
+/- Also hiding blocker objects
+
+SRF
+- Change displayColor on LDV variants
+
+GRM
+- Start them working on CFX template publishing
 
 ANI
 - Automate scene setup
+/- Being tested by Joshua
 - Anim TA will setup the shots for CFX (same was as in ANI)
+- 0150_0030 - Heaviness to load into scene.
 
 CFX
 - Import/Export Prep HDA
 - Subd workflow (allow subd)
 - pscale not working
-- split up the grooms
-- MrsTwit hair deform test
-- Automatically run the shot
+- Split up the grooms
+- Collision groups
+- Automatically run the shot setup
+- JF File Cache > Check whether it works properly while selected.
+- Line-up of primary's vs generics run cycles.
+- Blanket test
+
+FX
+- Meat Flood, look into issues with normals.
 
 LIT
 - Check out multi-shot workflow
+- Defining key frames for renders
+- ANI Sweatbox automation in-progress
+
+CMP
+- Publishing templates
 
 Houdini
 - Check comparing HDA files
+- Why aren't payloads showing the bbox
 
+//--------------
+ANI TD's
+--------------//
+
+- Pre-roll
+/- Is the script working on DAL?
+//- Launch DAL animators on pre-roll script.
+/- Break connections to the export sets.
+/- Check frame-range with SG too.
+
+- Animation Shot Build Process
+/- MVP brings in everything
+/- Customise that for each shotbuild
+
+- Extracting object from usd to the maya data model.
+- Animation Workflow Video
+- LOPs layer testing
+- PiP workflow
+/- Rigging to create a prop that can be assigned a texture
+/- Need to check that the texture projection, matches what will be in comp.
+/- UV's in rigging
+
+09/05:
+- Upgrade Joshua's machines RAM from 32gb.
+- Raph to publish layout to 88xx test shots, also needs camera knowledge
+- Automation being looked at:
+/- Need to chase pipe on rig loading, Joshua to check to eta's.
+- Test the pre-roll tool this week.
+- Once he can shot build, to test that.
+
+
+//--------------
+LIGHTING TD's
+--------------//
+
+- Set Heaviness
+- Window box shader
+/- MG and FG
+/- Shader interface
+/- HDA Creation
+/- A few days
+
+- 9991/9993
+- Valentin ooo until 15/05
