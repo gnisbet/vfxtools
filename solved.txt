@@ -1,0 +1,46 @@
+Solved
+------
+
+
+27/06
+------
+
+- Eye preview texture
+
+
+31/07
+-------
+
+CFX
+- Beard Interpolation : 								Looks to be good.
+
+16/06
+-------
+
+ANI
+- Automate scene setup
+
+PIPE
+- autoQCs are uploaded as "viewed" not as "pending review"
+
+FX
+- Meat Flood, look into issues with normals.
+
+\\ ------------------------------ //
+
+09/06
+-----
+
+General
+- Syncsketch framerange mismatch
+
+SRF
+- Send modify point instancer issue to sidefx (purpose Render)
+- Change displayColor on LDV variants
+
+FX
+- Meat Flood LDV okay'd by client
+/- All good, going to check in shot.
+
+LAY
+- TwitsPropertyExt publishing

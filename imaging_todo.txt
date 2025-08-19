@@ -1,0 +1,17 @@
+//--------------
+LIGHTING TD's
+--------------//
+
+- Set Heaviness
+
+- Window box shader
+/- MG and FG
+/- Shader interface
+/- HDA Creation
+/- A few days
+
+- Holdout offset in atmos
+- Shot Groups, Key Frames, Key Camera's
+- Sweatbox: 
+
+- 9991/9993

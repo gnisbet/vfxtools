@@ -1,0 +1,63 @@
+\\---------------------\\
+
+21/06
+
+- Beard around mouth
+/- Blend just around the mouth between the guide deform by skin and animation
+/- 
+
+- Automation
+
+\\---------------------\\
+
+07/06
+
+- Sanity QC on the Anim
+/- Pre-roll
+/- Assets
+
+- Shotgrid page for the artists, showing them bid time etc.
+- Assets
+
+\\---------------------\\
+
+31/05
+
+Animation Publish - Needs to be QC'd
+- Including pre-roll
+
+MrTwit Beard
+- Concerned with how long it's taking
+
+Length of time for juniors
+- Why is it taking so long, can we improve communication and chasing from production?
+- First day setup, second day version, 3rd and 4th iterations.
+
+\\---------------------\\
+
+24/05
+
+Stability:
+
+Try setting the Shade Open Curves off - Didn't work
+Try hiding the hair
+
+Shotbuild:
+
+List the requests wanted that are CFX specific.
+
+JF File Cache:
+
+Call me when there are issues
+Need to get to the end of the debugging
+
+Animation
+
+Publishing is an issue
+Write down a list of things to check from the TA's, still getting issues on production shots:
+Is the prim in the right place.
+Is it the right variant.
+Do the export paths match
+Not worrying too much about the DAL_000 shots.
+
+\\---------------------\\

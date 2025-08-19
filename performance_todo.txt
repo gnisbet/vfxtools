@@ -1,0 +1,48 @@
+//--------------
+ANI TD's
+--------------//
+
+13/06:
+--------
+- Shot Build published
+- USD Shotviewer
+- New HUD
+- Latest RIG
+- Scene Breakdown:
+/- Check the rig is latest 
+/- Caching everything in one loop
+
+
+
+- Pre-roll
+/- Is the script working on DAL?
+//- Launch DAL animators on pre-roll script.
+/- Break connections to the export sets.
+/- Check frame-range with SG too.
+
+- Animation Shot Build Process
+/- MVP brings in everything
+/- Customise that for each shotbuild
+
+- Extracting object from usd to the maya data model.
+- Animation Workflow Video
+- LOPs layer testing
+- PiP workflow
+/- Rigging to create a prop that can be assigned a texture
+/- Need to check that the texture projection, matches what will be in comp.
+/- UV's in rigging
+
+09/05:
+- Upgrade Joshua's machines RAM from 32gb.
+- Raph to publish layout to 88xx test shots, also needs camera knowledge
+- Automation being looked at:
+/- Need to chase pipe on rig loading, Joshua to check to eta's.
+- Test the pre-roll tool this week.
+- Once he can shot build, to test that.
+
+22/05:
+Shot Build:
+- Add lighting tool
+- Make sure animators can only load rigs from cast variants.
+
+
